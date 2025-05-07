@@ -2,10 +2,6 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
-    background-image: url(./resources/background-1.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
     margin: 0;
     padding: 0;
     display: flex;
